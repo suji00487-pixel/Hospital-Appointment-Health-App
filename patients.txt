@@ -1,0 +1,6 @@
+Patient ID: 101 | Name: suji | Age: 25 | Gender: female | Phone: 2445221541
+Patient ID: 101 | Name: ravi | Age: 182 | Gender: female | Phone: 5488618958
+Patient ID: 102 | Name: ravi | Age: 28 | Gender: male | Phone: 9724832553
+Patient ID: 101 | Name: arun  | Age: 20 | Gender: male | Phone: 9876543210
+Patient ID: 103 | Name: sakthi | Age: 37 | Gender: female | Phone: 3561827651
+Patient ID: 104 | Name: vedha | Age: 19 | Gender: female | Phone: 1576574615
